@@ -15,9 +15,7 @@ Results were measured from SurfaceFlinger frame statistics.
 
 > Modifying the game client may break HoYoverse's terms of service. Use at your own risk. This repo contains no game files.
 
-## Why the package name stays `com.HoYoverse.Nap`
 
-On HyperOS, PowerKeeper writes `miui_refresh_rate=60` for any game that isn't on Xiaomi's list. That holds the display at 60 Hz no matter what the game asks for. The official package name is on that list, so it keeps 120 Hz along with the Game Turbo features (saturation boost, WildBoost). A renamed clone gets none of these.
 
 ## Requirements
 
