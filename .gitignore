@@ -1,0 +1,12 @@
+# Game files are copyrighted; signing keys are private. Never commit either.
+*.apk
+*.apks
+*.xapk
+*.apkm
+*.so
+*.p12
+*.jks
+*.keystore
+*password*
+out/
+__pycache__/
